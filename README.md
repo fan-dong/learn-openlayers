@@ -17,6 +17,6 @@ https://openlayers.org/
 ## 示意图
 
 ```
-![pic.png]("./static/img/pic.png")
+![示意图](./src/assets/pic.png)
 
 ```
