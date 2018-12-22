@@ -14,6 +14,7 @@ openlayers是一个开源免费的js库，用于在网页中实现地图的动�
 https://openlayers.org/
 
 ```
+## 示意图
 
-![pic](https://github.com/fan-dong/learn-openlayers/blob/master/static/img/pic.png)
+![pic](static/img/pic.png)
 
