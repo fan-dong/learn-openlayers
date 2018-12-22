@@ -18,5 +18,6 @@ https://openlayers.org/
 
 ```
 ![示意图](https://github.com/fan-dong/learn-openlayers/src/assets/pic.png)
+<p><a href="https://www.npmjs.com/package/vue-schart"><img src="https://img.shields.io/npm/dm/vue-schart.svg" alt="Downloads"></a></p>
 
 ```
