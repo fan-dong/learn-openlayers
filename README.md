@@ -17,6 +17,6 @@ https://openlayers.org/
 ## 示意图
 
 ```
-![示意图](./src/assets/pic.png)
+![示意图](https://github.com/fan-dong/learn-openlayers/src/assets/pic.png)
 
 ```
